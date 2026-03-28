@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hi, I'm RounakSingh!
+##Professional Focus 
+- Specializing in: [Robotics, Artificial intelligence, Autonomous system Architection]
+- Current Goal: Mastering GitHub for Future Excellence 
 
+**Will upload Projects and other "Proofs" here**
 <!--
 **RounakSinghIn/RounakSinghIn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

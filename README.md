@@ -1,20 +1,11 @@
-# Hi, I'm RounakSingh!
-## Professional Focus 
-- Specializing in: [Robotics, Artificial intelligence, Autonomous system Architection]
-- Current Goal: Mastering GitHub for Future Excellence 
+# RounakSingh
 
-**Will upload Projects and other "Proofs" here**
-<!--
-**RounakSinghIn/RounakSinghIn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Architect: AI | Robotics | Systems Integration**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Focus
+- **Artificial Intelligence:** This section, defines creation of Intelligence.
+- **Robotics:** This section represents creation of autonomous systems, Hardware creation, reality machines.
+- **Cyber-Physical Systems:** The intersection of AI and robotics.
+- **Miscellaneous:** This section means anything miscellaneous beside above three. 

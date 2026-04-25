@@ -2,6 +2,8 @@
 
 **Architect: AI | Robotics | Systems Integration**
 
+> [View Portfolio / Proof of Work](https://github.com/RounakSinghIn/portfolio-start)
+
 ---
 
 ### Core Focus
